@@ -7,6 +7,7 @@ Despite their advantages, web applications are often vulnerable to attacks due t
 Additionally, we discuss strategies for safeguarding organizational resources by securing applications that may contain exploitable code. We also highlight the tools and practices that can be employed to proactively prevent attacks and ensure a secure operational environment. Furthermore, this document provides insights into enhancing overall security within an organization and ensuring that data handling practices align with regulatory and operational requirements.
 
 Key Topics Covered:
+
 1.Common Web Application Attacks: Overview of prevalent threats such as SQL injection, cross-site scripting (XSS), and more.
 
 2.Remediation Strategies: Best practices for addressing vulnerabilities and securing web applications.
